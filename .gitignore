@@ -4,3 +4,6 @@ _site
 _deploy.yml
 .ruby-gemset
 .ruby-version
+
+# Mac finder artifacts
+.DS_Store

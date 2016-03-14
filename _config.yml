@@ -19,7 +19,7 @@ github_username:  jekyll
 markdown: kramdown
 
 twitter:
-  username:            a1annv                   # Add your Twitter handle
+  username:            a1annv             # Add your Twitter handle
   tweet_count:         false              # Show number of shares on Twitter
   size:                normal             # Or large
   embedded_link_color:                    # Set link color for embedded tweets
