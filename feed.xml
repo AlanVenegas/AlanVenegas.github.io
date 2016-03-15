@@ -4,19 +4,22 @@
     <title>Testing octopress</title>
     <description>An awesome description for your new site here.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Mar 2016 15:17:27 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 15:17:27 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Mar 2016 10:54:27 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 10:54:27 +0000</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Welcome Aboard</title>
         <description>&lt;p&gt;Hey hey! Welcome!&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;http://localhost:4000/images/octopus_hires.jpg&quot; /&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 11 Mar 2016 13:55:26 +0000</pubDate>
-        <link>http://yourdomain.com/2016/03/11/welcome-aboard.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2016/03/11/welcome-aboard.html</guid>
+        <link>http://localhost:4000/2016/03/11/welcome-aboard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/11/welcome-aboard.html</guid>
         
         <category>uno</category>
         
@@ -43,8 +46,8 @@
 
 </description>
         <pubDate>Fri, 11 Mar 2016 13:55:07 +0000</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/03/11/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/03/11/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4000/jekyll/update/2016/03/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/03/11/welcome-to-jekyll.html</guid>
         
         <category>hola</category>
         
